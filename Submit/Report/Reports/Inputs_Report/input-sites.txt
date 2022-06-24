@@ -1,0 +1,1 @@
+{"estrella": "https://www.laestrella.com.pa" ,"prensa": "http://www.prensa.com" , "siglo": "http://www.elsiglo.com.pa", "panamaamerica": "https://www.panamaamerica.com.pa","diaadia": "https://www.diaadia.com.pa"}
